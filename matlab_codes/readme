@@ -1,0 +1,4 @@
+1.You`ll have to create a list of the images which is done by a python script written by me. Run the python script in the images folder.
+2.Write the address of the list file in the program , line number 86 to be precise.
+3.strt is the serial number of I3 , change it on line number 113
+4.change the addreses of I1, I2, I3 according to your respective immage database.
